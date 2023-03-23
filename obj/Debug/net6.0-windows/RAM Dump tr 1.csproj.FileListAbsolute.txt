@@ -1,0 +1,35 @@
+E:\Visual studios\Projects\tr 1\RAM Dump tr 1\bin\Debug\net6.0-windows\RAM Dump tr 1.exe
+E:\Visual studios\Projects\tr 1\RAM Dump tr 1\bin\Debug\net6.0-windows\RAM Dump tr 1.deps.json
+E:\Visual studios\Projects\tr 1\RAM Dump tr 1\bin\Debug\net6.0-windows\RAM Dump tr 1.runtimeconfig.json
+E:\Visual studios\Projects\tr 1\RAM Dump tr 1\bin\Debug\net6.0-windows\RAM Dump tr 1.dll
+E:\Visual studios\Projects\tr 1\RAM Dump tr 1\bin\Debug\net6.0-windows\RAM Dump tr 1.pdb
+E:\Visual studios\Projects\tr 1\RAM Dump tr 1\obj\Debug\net6.0-windows\RAM Dump tr 1.csproj.AssemblyReference.cache
+E:\Visual studios\Projects\tr 1\RAM Dump tr 1\obj\Debug\net6.0-windows\RAM_Dump_tr_1.Form1.resources
+E:\Visual studios\Projects\tr 1\RAM Dump tr 1\obj\Debug\net6.0-windows\RAM Dump tr 1.csproj.GenerateResource.cache
+E:\Visual studios\Projects\tr 1\RAM Dump tr 1\obj\Debug\net6.0-windows\RAM Dump tr 1.GeneratedMSBuildEditorConfig.editorconfig
+E:\Visual studios\Projects\tr 1\RAM Dump tr 1\obj\Debug\net6.0-windows\RAM Dump tr 1.AssemblyInfoInputs.cache
+E:\Visual studios\Projects\tr 1\RAM Dump tr 1\obj\Debug\net6.0-windows\RAM Dump tr 1.AssemblyInfo.cs
+E:\Visual studios\Projects\tr 1\RAM Dump tr 1\obj\Debug\net6.0-windows\RAM Dump tr 1.csproj.CoreCompileInputs.cache
+E:\Visual studios\Projects\tr 1\RAM Dump tr 1\obj\Debug\net6.0-windows\RAM Dump tr 1.dll
+E:\Visual studios\Projects\tr 1\RAM Dump tr 1\obj\Debug\net6.0-windows\refint\RAM Dump tr 1.dll
+E:\Visual studios\Projects\tr 1\RAM Dump tr 1\obj\Debug\net6.0-windows\RAM Dump tr 1.pdb
+E:\Visual studios\Projects\tr 1\RAM Dump tr 1\obj\Debug\net6.0-windows\RAM Dump tr 1.genruntimeconfig.cache
+E:\Visual studios\Projects\tr 1\RAM Dump tr 1\obj\Debug\net6.0-windows\ref\RAM Dump tr 1.dll
+C:\Hackthorn\RAM Dump tr 1\bin\Debug\net6.0-windows\RAM Dump tr 1.exe
+C:\Hackthorn\RAM Dump tr 1\bin\Debug\net6.0-windows\RAM Dump tr 1.deps.json
+C:\Hackthorn\RAM Dump tr 1\bin\Debug\net6.0-windows\RAM Dump tr 1.runtimeconfig.json
+C:\Hackthorn\RAM Dump tr 1\bin\Debug\net6.0-windows\RAM Dump tr 1.dll
+C:\Hackthorn\RAM Dump tr 1\bin\Debug\net6.0-windows\RAM Dump tr 1.pdb
+C:\Hackthorn\RAM Dump tr 1\obj\Debug\net6.0-windows\RAM Dump tr 1.csproj.AssemblyReference.cache
+C:\Hackthorn\RAM Dump tr 1\obj\Debug\net6.0-windows\RAM_Dump_tr_1.Form1.resources
+C:\Hackthorn\RAM Dump tr 1\obj\Debug\net6.0-windows\RAM_Dump_tr_1.Properties.Resources.resources
+C:\Hackthorn\RAM Dump tr 1\obj\Debug\net6.0-windows\RAM Dump tr 1.csproj.GenerateResource.cache
+C:\Hackthorn\RAM Dump tr 1\obj\Debug\net6.0-windows\RAM Dump tr 1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Hackthorn\RAM Dump tr 1\obj\Debug\net6.0-windows\RAM Dump tr 1.AssemblyInfoInputs.cache
+C:\Hackthorn\RAM Dump tr 1\obj\Debug\net6.0-windows\RAM Dump tr 1.AssemblyInfo.cs
+C:\Hackthorn\RAM Dump tr 1\obj\Debug\net6.0-windows\RAM Dump tr 1.csproj.CoreCompileInputs.cache
+C:\Hackthorn\RAM Dump tr 1\obj\Debug\net6.0-windows\RAM Dump tr 1.dll
+C:\Hackthorn\RAM Dump tr 1\obj\Debug\net6.0-windows\refint\RAM Dump tr 1.dll
+C:\Hackthorn\RAM Dump tr 1\obj\Debug\net6.0-windows\RAM Dump tr 1.pdb
+C:\Hackthorn\RAM Dump tr 1\obj\Debug\net6.0-windows\RAM Dump tr 1.genruntimeconfig.cache
+C:\Hackthorn\RAM Dump tr 1\obj\Debug\net6.0-windows\ref\RAM Dump tr 1.dll
